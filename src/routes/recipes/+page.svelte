@@ -24,9 +24,9 @@
 		<div class="intro">
 			<h2>Pick a Category to Get Started</h2>
 			<p>
-				This cookbook serves shows users how best-in-practice code is written in Svelte. You’ll
-				learn how to import third-party libraries, external scripts as well as how to handle common
-				problems that you will have to solve often.
+				This cookbook shows users how best-in-practice code is written in Svelte. You’ll
+				learn how to import third-party libraries and external scripts, as well as how to handle common
+				problems you will solve often.
 			</p>
 		</div>
 		<div class="category-wrapper">
@@ -51,11 +51,11 @@
 			<h3>What can I expect from these recipes?</h3>
 			<p>
 				The Svelte compiler expects all components it receives to be valid Svelte syntax. To use
-				compile-to-js or compile-to-css languages, you need to make sure that any non-standard
+				compile-to-js or compile-to-css languages, you need to make sure any non-standard
 				syntax is transformed before Svelte tries to parse it. To enable this Svelte provides a
 				preprocess method allowing you to transform different parts of the component before it
 				reaches the compiler. With <b>svelte.preprocess</b> you have a great deal of flexibility in how
-				you write your components while ensuring that the Svelte compiler receives a plain component.
+				you write your components while ensuring the Svelte compiler receives a plain component.
 			</p>
 		</section>
 		<section>
@@ -67,7 +67,7 @@
 				<a href="/recipes/build-setup">Build Setup recipes</a>.
 			</p>
 			<p>
-				If you are writing a Svelte component library, check the <a
+				If you are writing a Svelte component library, check <a
 					href="https://github.com/sveltejs/component-template"
 					>the Official Svelte Component template</a
 				>.
@@ -76,7 +76,7 @@
 		<section class="recipe">
 			<h3>Do you want to write a recipe?</h3>
 			<p>
-				We’re looking for new recipes and recipe authors. Are you interested? Just submit a issue
+				We’re looking for new recipes and recipe authors. Are you interested? Just submit an issue
 				with a recipe below!
 			</p>
 			<a href="https://github.com/svelte-society/sveltesociety.dev/issues/new" class="button">
